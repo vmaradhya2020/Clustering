@@ -1,4 +1,6 @@
-Completed the facebook (Graph) assignment using networkx library and following are the details.
+Facebook Graph Analysis and Community Detection using the networkx library.
+
+Developed comprehensive graph network analysis system using Python to process 4,000+ nodes with advanced transition probability algorithms, achieving high-performance computation at 302+ operations/second. Built scalable analytical framework with interactive visualization and real-time progress monitoring, enabling deep insights into complex network structures and node relationships.
 
 1.) Number of Nodes.
 2.) Number of edges.
